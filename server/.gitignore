@@ -1,0 +1,13 @@
+# Node.js
+node_modules/
+# Environment variables
+.env
+# IDEs and editors
+.vscode/
+# Optional npm cache directory
+.npm
+# TypeScript
+*.tsbuildinfo
+# Thư mục biên dịch
+build/
+dist/
